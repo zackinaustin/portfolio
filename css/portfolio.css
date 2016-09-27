@@ -1,0 +1,151 @@
+.intro-header-intern {
+    background-color: #EF5550;
+    padding: 120px;
+}
+
+.intro-header-presenting {
+    background-color: #C0DD86;
+    padding: 120px;
+}
+
+.intro-header-alamo {
+    background-color: #2A496F;
+    padding: 120px;
+}
+
+.intro-header-blanton {
+    background-color: #645A9A;
+    padding: 50px;
+}
+
+.intro-header-libro {
+    background-color: #3CC1AC;
+    padding: 50px;
+}
+
+.intro-header-marvel {
+    background-color: #D5D3D3;
+    padding: 120px;
+}
+
+.intro-header-usability {
+    background-color: #FFCE5D;
+    padding: 120px;
+}
+
+.intro-header-utparking {
+    background-color: #E2804F;
+    padding: 50px;
+}
+
+
+p {
+font-family: Raleway;
+font-size: 20px;
+color: #283A61;
+}
+
+p.small {
+
+font-family: Raleway;
+font-size: 15px;
+color: #283A61;
+padding: 2px;
+
+
+}
+
+h1 {
+font-family: Raleway;
+font-size: 60px;
+color: white;
+}
+
+h2 {
+font-family: Raleway;
+font-size: 40px;
+color: #283A61;
+}
+
+h3 {
+  font-family: Raleway;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+}
+
+h4 {
+  font-family: Raleway;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+h5 {
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 3px;
+  text-align: center;
+}
+
+.grey-bg {
+  background-color: #f9f9f9;
+  background-size: cover;
+}
+
+.white-bg {
+  background-size: cover;
+}
+
+.blue-bg {
+  background-color: #313951;
+  background-size: cover;
+}
+
+.becenter {
+  text-align: center;
+  padding: 30px;
+}
+
+.affinitydiagram{
+  width: 100%;
+  height: auto;
+}
+
+.close-icon {
+    position: absolute;
+    top: 25px;
+    right: 25px;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.close-icon:hover {
+    opacity: .3;
+}
+
+.close-icon .lr {
+    z-index: 1051;
+    width: 1px;
+    height: 75px;
+    margin-left: 35px;
+    background-color: white;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.close-icon .lr .rl {
+    z-index: 1052;
+    width: 1px;
+    height: 75px;
+    background-color:white;
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}

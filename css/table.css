@@ -1,0 +1,35 @@
+.modal-table {
+  border: 1px solid #b4bcc2;
+  width: 100%;
+}
+.modal-table thead tr th {
+  font-weight: bold;
+}
+.modal-table thead tr th,
+.modal-table thead tr td,
+.modal-table tbody tr th,
+.modal-table tbody tr td {
+  text-align: center;
+  border: 0 0 0 0;
+  padding:30px 30px 30px 30px;
+}
+.modal-table thead tr .myRoles,
+.modal-table tbody tr .myRoles {
+  width: 150px;
+}
+.modal-table thead tr .class,
+.modal-table tbody tr .class {
+  width: 280px;
+}
+.modal-table thead tr .time,
+.modal-table tbody tr .time {
+  width: 110px;
+}
+.modal-table thead tr .tools,
+.modal-table tbody tr .tools {
+  width: 280px;
+}
+.modal-table thead tr .team,
+.modal-table tbody tr .team {
+  width: 200px;
+}
